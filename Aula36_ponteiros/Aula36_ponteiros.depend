@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1608223310 source:c:\users\rafael.ntm\desktop\curso c++\aula36_ponteiros\main.cpp
+	<iostream>
+	<locale.h>
+

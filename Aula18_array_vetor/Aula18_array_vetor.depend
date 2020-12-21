@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1608059193 source:c:\users\rafael.ntm\desktop\curso c++\aula18_array_vetor\main.cpp
+	<iostream>
+	<locale.h>
+

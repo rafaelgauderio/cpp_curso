@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1608230679 source:c:\users\rafael.ntm\desktop\curso c++\aula37_ponteiro_array\main.cpp
+	<iostream>
+	<locale.h>
+
