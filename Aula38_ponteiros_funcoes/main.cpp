@@ -17,7 +17,8 @@ int main()
 
     float num=0;
     string vetor[5];
-    string sobrenome="Souza";
+    string sobrenome=" Souza";
+    string sobrenome2=" da Silva";
 
 
     somar(&num,15);
@@ -37,7 +38,7 @@ int main()
 
     cout << "\n\n";
 
-    adicionarSegundoSobrenome(vetor," da Silva");
+    adicionarSegundoSobrenome(vetor,sobrenome2);
 
     for (int i=0; i <5 ; i++)
     {
@@ -62,21 +63,21 @@ void somar(float *var, float valor)
 
 void iniciarVetor (string *vetor, string sobrenome)
 {
-    vetor[0]="Rafael "+sobrenome;
-    vetor[1]="Luciana "+sobrenome;
-    vetor[2]="Maxwell "+sobrenome;
-    vetor[3]="Messi "+sobrenome;
-    vetor[4]="Zagueiro "+sobrenome;
+    vetor[0]="Rafael"+sobrenome;
+    vetor[1]="LucinaDoNomeLongo"+sobrenome;
+    vetor[2]="Maxwell"+sobrenome;
+    vetor[3]="Messi"+sobrenome;
+    vetor[4]="Zagueiro"+sobrenome;
 
 }
 
-void adicionarSegundoSobrenome(string *vetor,string sobrenome)
+void adicionarSegundoSobrenome(string *vetor,string sobrenome2)
 {
-    vetor[0]= vetor[0] + sobrenome;
-    vetor[1]= vetor[1]+ sobrenome;
-    vetor[2]= vetor[2]+ sobrenome;
-    vetor[3]= vetor[3]+ sobrenome;
-    vetor[4]= vetor[4]+ sobrenome;
+    vetor[0]= vetor[0] + sobrenome2;
+    vetor[1]= vetor[1]+ sobrenome2;
+    vetor[2]= vetor[2]+ sobrenome2;
+    vetor[3]= vetor[3]+ sobrenome2;
+    vetor[4]= vetor[4]+ sobrenome2;
 }
 
 

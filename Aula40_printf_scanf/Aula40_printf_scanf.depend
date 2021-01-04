@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1609772964 source:c:\users\rafael.ntm\desktop\curso c++\aula40_printf_scanf\main.cpp
+	<iostream>
+	<stdio.h>
+	<locale.h>
+
