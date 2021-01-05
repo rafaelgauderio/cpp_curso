@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1609854211 source:c:\users\rafael.ntm\desktop\curso c++\aula42_classe_vector\main.cpp
+	<iostream>
+	<stdio.h>
+	<vector>
+	<locale.h>
+
