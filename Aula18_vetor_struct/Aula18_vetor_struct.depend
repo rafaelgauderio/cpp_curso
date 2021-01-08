@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1610135027 source:c:\users\rafael.ntm\desktop\curso c++\aula18_vetor_struct\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<iomanip>
+
