@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1610563672 source:c:\users\rafael.ntm\desktop\curso c++\aula45_oo_arquivo_externo_construtor\main.cpp
+	<iostream>
+	"Aviao.h"
+	<locale.h>
+
+1610563698 c:\users\rafael.ntm\desktop\curso c++\aula45_oo_arquivo_externo_construtor\aviao.h
+

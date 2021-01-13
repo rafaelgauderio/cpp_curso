@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1610547434 source:c:\users\rafael.ntm\desktop\curso c++\aula12_operador_ternario\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
