@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1610739840 source:c:\users\rafael.ntm\desktop\curso c++\aula50_arquivos_ofstream\main.cpp
+	<iostream>
+	<fstream>
+	<locale.h>
+
