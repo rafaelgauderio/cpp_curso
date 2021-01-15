@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1610719318 source:c:\users\rafael.ntm\desktop\curso c++\aula48_heranca_multipla\main.cpp
+	<iostream>
+	<locale.h>
+	"classes.h"
+
+1610719488 c:\users\rafael.ntm\desktop\curso c++\aula48_heranca_multipla\classes.h
+
