@@ -1,6 +1,7 @@
 # depslib dependency file v1.0
-1613740575 source:c:\users\rafael.ntm\desktop\curso c++\sistema-alunos\main.cpp
+1613762185 source:c:\users\rafael.ntm\desktop\curso c++\sistema-alunos\main.cpp
 	<iostream>
+	<iomanip>
 	<stdio.h>
 	<string.h>
 	<stdlib.h>
